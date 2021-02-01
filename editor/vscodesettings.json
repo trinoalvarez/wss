@@ -1,9 +1,0 @@
-{
-    "editor.fontSize": 15,
-    "editor.fontFamily": "Fira Mono, monospace",
-    "editor.fontLigatures": null,
-    "editor.minimap.enabled": false,
-    "workbench.colorTheme": "Ayu Mirage Bordered",
-    "workbench.iconTheme": "ayu",
-    "editor.lineHeight": 20
-}
